@@ -6,8 +6,8 @@ Hi there, I'm Raul Gamero 👋
 </h3>
 <ul>
   <li> :earth_africa: I'm based in Barcelona, Spain </li>
-  <li> :man_technologist: I’m currently learning Javascript</li>
-  <li> :envelope: You can contact me at raul.gamero.cs@gmail.com</li>
+  <li> :brain: I’m currently learning Javascript</li>
+  <li> :man_technologist: Checkout my <a href="https://raulgamero.github.io/">Portfolio</a></li>
 </ul>
 <h3>
 Skills
