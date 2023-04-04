@@ -5,8 +5,8 @@ Hi there, I'm Raul Gamero 👋
 <a href="https://www.linkedin.com/in/raul-gamero-26197924a/?original_referer=https%3A%2F%2Fraulgamero.github.io%2F"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </h3>
 <ul>
-  <li> :earth_africa: I'm based in Barcelona, Spain </li>
-  <li> :brain: I’m currently learning Javascript</li>
+  <li> :earth_africa: Based in Barcelona, Spain </li>
+  <li> :brain: Currently learning Javascript</li>
   <li> :man_technologist: Checkout my <a href="https://raulgamero.github.io/">Portfolio</a></li>
 </ul>
 <h3>
