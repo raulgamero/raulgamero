@@ -1,9 +1,7 @@
 <h2 align="center">
 Hi there, I'm Raul Gamero 👋
 </h2>
-<h3 align="center">
-<a href="https://www.linkedin.com/in/raul-gamero-26197924a/?original_referer=https%3A%2F%2Fraulgamero.github.io%2F"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</h3>
+
 <ul>
   <li> :earth_africa: Based in Barcelona, Spain </li>
   <li> :brain: Currently learning Javascript</li>
