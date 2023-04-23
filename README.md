@@ -1,11 +1,13 @@
 <h2 align="center">
 Hi there, I'm Raul Gamero 👋
 </h2>
-
+![](https://komarev.com/ghpvc/?username=raulgamero&color=green)
+<br>
 <ul>
+  <li> :man_technologist: Computer Engineering student </li>
   <li> :earth_africa: Based in Barcelona, Spain </li>
   <li> :brain: Currently learning Javascript</li>
-  <li> :man_technologist: Checkout my <a href="https://raulgamero.github.io/">Portfolio</a></li>
+  <li> 🚀 Checkout my <a href="https://raulgamero.github.io/">Portfolio</a></li>
 </ul>
 <h3>
 Skills
