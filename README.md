@@ -1,7 +1,7 @@
 <h2 align="center">
 Hi there, I'm Raul Gamero 👋
 </h2>
-![](https://komarev.com/ghpvc/?username=raulgamero&color=green)
+[![HitCount](https://hits.dwyl.com/raulgamero/raulgamero.svg?style=flat-square)](http://hits.dwyl.com/raulgamero/raulgamero)
 <br>
 <ul>
   <li> :man_technologist: Computer Engineering student </li>
