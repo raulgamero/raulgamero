@@ -1,8 +1,9 @@
 <h2 align="center">
 Hi there, I'm Raul Gamero 👋
 </h2>
-[![HitCount](https://hits.dwyl.com/raulgamero/raulgamero.svg?style=flat-square)](http://hits.dwyl.com/raulgamero/raulgamero)
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raulgamero&color=green"></img>
+</p>
 <ul>
   <li> :man_technologist: Computer Engineering student </li>
   <li> :earth_africa: Based in Barcelona, Spain </li>
@@ -12,7 +13,7 @@ Hi there, I'm Raul Gamero 👋
 <h3>
 Skills
 </h3>
-<p align="left">
+<p>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/c/76/c.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -23,3 +24,11 @@ Skills
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="36" height="36" alt="Linux" /></a> 
 </p>
+<h3>
+Stats
+</h3>
+<div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raulgamero&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<div>
