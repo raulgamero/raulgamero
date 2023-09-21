@@ -30,4 +30,4 @@ Skills
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="36" height="36" alt="Linux" /></a> 
 </p>
 <h3>Stats</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=raulgamero-ma&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api?username=raulgamero&show_icons=true&theme=transparent">
