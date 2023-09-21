@@ -29,6 +29,5 @@ Skills
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="36" height="36" alt="Linux" /></a> 
 </p>
-<h3>Contributions</h3>
-![raulgamero's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulgamero&show_icons=true&theme=transparent)
-
+<h3>Stats</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=raulgamero-ma&theme=onedark">
