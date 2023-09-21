@@ -30,4 +30,8 @@ Skills
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="36" height="36" alt="Linux" /></a> 
 </p>
 <h3>Contributions</h3>
-![snake gif](https://github.com/raulgamero/raulgamero/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/raulgamero/raulgamero/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/raulgamero/raulgamero/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/raulgamero/raulgamero/blob/output/github-contribution-grid-snake.svg" />
+</picture>
