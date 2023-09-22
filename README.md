@@ -15,6 +15,7 @@ Socials
 </h3>
 <a href="https://www.linkedin.com/in/raul-gamero-26197924a/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" /></a>
 <a href="https://stackoverflow.com/users/21781844/raul-gamero" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="36" height="36"/></a>
+<a href="https://leetcode.com/gamerinha/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="36" height="36"/></a>
 <h3>
 Skills
 </h3>
