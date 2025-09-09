@@ -5,7 +5,7 @@ Hi there, I'm Raul Gamero 👋
   <img src="https://komarev.com/ghpvc/?username=raulgamero&color=green"></img>
 </p>
 <ul>
-  <li> :man_technologist: Computer Engineer </li>
+  <li> :man_technologist: DevOps Engineer </li>
   <li> :earth_africa: Based in Barcelona, Spain </li>
   <li> 🚀 Checkout my <a href="https://raulgamero.github.io/">Portfolio</a></li>
 </ul>
